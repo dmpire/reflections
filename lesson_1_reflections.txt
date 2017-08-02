@@ -1,0 +1,75 @@
+
+How did viewing a diff between two versions of 
+a file help you see the bug that was introduced?
+
+MY REFLECTIONS : 
+
+Viewing the difference between two versions of a 
+file so as to see the bug that was introduced
+was amazing for me , especially because i didn't
+ even know that that was a possibility. I used 
+to just pore over my codes for hours , sometimes
+ i literally would feel depressed but using FC 
+(Yep, cause i use Windows), it's sooooooo easy! 
+I totally love it already.
+
+------------------------------------------------- 
+
+How could having easy access to the entire history of 
+a file make you a more efficient programmer 
+in the long term?
+
+MY REFLECTIONS : 
+
+-------------------------------------------------
+What do you think are the pros and cons of manually 
+choosing when to create a commit, like you do in Git, 
+vs having versions automatically saved, 
+like Google Docs does?
+
+MY REFLECTIONS :
+
+PROS
+1. The history log can be controlled so we don't have
+unnecessary files logging.
+
+CONS
+1. If you stay in a place with unreliable power supply, 
+your computer could shutdown before you get a chance to 
+commit your work and so you lose your progress.
+
+-------------------------------------------------
+Why do you think some version control systems, like Git, 
+allow saving multiple files in one commit, while others,
+like Google Docs, treat each file separately?
+
+MY REFLECTIONS:
+So that each commit has a logical change/ difference.
+If any commit has a bug, it's easier getting to it.
+
+-------------------------------------------------
+How can you use the commands git log and git diff 
+to view the history of files?
+
+MY REFLECTIONS:
+git log usually gives you a list of all the changes 
+that have been made to a page while you can use the 
+commit ID of the most recent commit to the doc and 
+compare it to the one that has the change you're
+ interested in using the git diff command.
+
+--------------------------------------------------
+How might using version control make you more confident
+ to make changes that could break something?
+
+MY REFLECTIONS:
+Using version control makes me more confident about 
+making errors because i know i can easily find out 
+and correct the mistakes i make.
+
+--------------------------------------------------
+Now that you have your workspace set up,
+what do you want to try using Git for?
+
+MY REFLECTIONS:
+i will participate in the 100 Days of Code Challenge.

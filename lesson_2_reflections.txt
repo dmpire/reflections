@@ -1,0 +1,31 @@
+
+What happens when you initialize a repository?
+ Why do you need to do it?
+
+MY REFLECTIONS : 
+
+Initializing a repository adds a .git folder to 
+the repository which then makes it easy for git
+commands to be used in manipulating the 
+repository. 
+
+------------------------------------------------- 
+
+How is the staging area different from the working
+directory and the repository? 
+What value do you think it offers?
+
+MY REFLECTIONS : 
+
+The staging area is like a linking bridge between 
+the repository and the working directory. Stuff is
+brought from the working directory and kept on this
+bridge so that eventually the stuff on this bridge 
+can be taken to the repository. Using git reset, this 
+stuff can be recalled from the bridge and sent back
+to the working directory. (I'm using a seller buyer
+market analogy here. but you get it.)
+
+As to value, I'm not entirely sure at the moment
+what value it offers but when i decide, i'll remember
+to come back and update this.
