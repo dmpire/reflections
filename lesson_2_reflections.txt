@@ -29,3 +29,52 @@ market analogy here. but you get it.)
 As to value, I'm not entirely sure at the moment
 what value it offers but when i decide, i'll remember
 to come back and update this.
+
+-------------------------------------------------
+How can you use the staging area to make sure you 
+have one commit per logical change?
+
+MY REFLECTIONS :
+
+I think you would git add one file and commit it
+before adding the next file and then commiting it
+as well.
+
+-------------------------------------------------
+What are some situations when branches would be 
+helpful in keeping your history organized? 
+How would branches help?
+
+MY REFLECTIONS :
+
+When i want to test out an experimental feature 
+or when i want to create a different version of the 
+same project in maybe another language. I also think
+it's a way of breaking my project into components like
+in MVC model. Most people say you must avoid working on 
+your masters branch as much as possible because your 
+masters branch is where you put things you're extremely 
+sure about. Also branches are useful when collaborating 
+with other people on a project especially when you're 
+far apart.
+
+-------------------------------------------------
+How do the diagrams help you visualize the branch structure?
+
+MY REFLECTIONS :
+
+They help you notice on time whether you have a shaky
+commit. 
+
+-------------------------------------------------
+What is the result of merging two branches together? 
+Why do we represent it in the diagram the way we do?
+
+MY REFLECTIONS :
+
+-------------------------------------------------
+What are the pros and cons of Git’s automatic 
+merging vs. always doing merges manually?
+
+MY REFLECTIONS :
+
