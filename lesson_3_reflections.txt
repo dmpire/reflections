@@ -4,14 +4,30 @@ MY REFLECTIONS:
 When working with other people so like the other person pushes certain changes to 
 the repository and when working from a different computer.
 
--------------------------------------------------
+-------------------------------------------------------------------
 
-Why might you want to always pull changes manually 
-rather than having Git automatically stay up-to-date
- with your remote repository?
+Why might you want to always pull changes manually rather than having Git automatically
+ stay up-to-date with your remote repository?
 
  MY REFLECTIONS:
 
  So that git doesn't have to be over-worked unnecessarily?
- i'm not entirely sure because automation always seems like 
- such a good idea.
+ i'm not entirely sure because automation always seems like such a good idea.
+
+--------------------------------------------------------------------
+ Describe the differences between forks, clones, and branches. 
+ When would you use one instead of another?
+
+ MY REFLECTIONS:
+
+Fork basically clones or copies someone else's repository on GitHub to your own
+GitHub account and maintains a link so people know who was the original owner of
+the project which is a way of giving credit to the person. Fork also makes it 
+possible/ easier for you to later contribute to a repository.
+
+Clone means to copy a repository from GitHub to your Local Computer.
+
+Branches is basically like creating different compartments or components or features
+of the same project.
+
+I feel the above explanations also answer the second question.
