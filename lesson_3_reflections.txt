@@ -48,3 +48,15 @@ To make sure that the repository is up-to-date on all ends,
 i.e. locally and remotely as well. When collaborating this means 
 that you and all other collaborators on the project are mostly
 always on the same page.
+
+---------------------------------------------------------------
+How would you collaborate without using Git or GitHub? 
+What would be easier, and what would be harder?
+
+MY REFLECTIONS:
+
+I would have to collaborate in person, which means that we have
+to be in the same location. Or we could try email which will be a 
+very tedious process. Like sending your codes back and forth via
+email and then copying and pasting the codes sent into your 
+respective text editors.
