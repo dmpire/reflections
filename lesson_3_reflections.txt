@@ -60,3 +60,14 @@ to be in the same location. Or we could try email which will be a
 very tedious process. Like sending your codes back and forth via
 email and then copying and pasting the codes sent into your 
 respective text editors.
+
+---------------------------------------------------------------
+When would you want to make changes in a separate branch rather
+than directly in master? What benefits does each approach have?
+
+MY REFLECTIONS:
+
+When you are working alone on a project, it's okay to work directly 
+in the master branch but when collaborating with others, it's 
+usually better to work in a different branch so that conflicts can
+be resolved more easily.
